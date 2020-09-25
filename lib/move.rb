@@ -16,6 +16,6 @@ end
 
 def move(board,index,marker = "X")
   
-   boar[index] = marker
+   board[index] = marker
    
 end
